@@ -1,0 +1,17 @@
+1. Write the program to create five Child Processes using system call fork() and display their ids.
+
+2. Write a program to implement FCFS Scheduling algorithm to determine average wait time and average turnaround time.
+
+3. Write a program to implement SJF Scheduling algorithm to determine average wait time and average turnaround time.
+
+4. Write a program to implement Round Robin Scheduling algorithm to determine average wait time and average turnaround time.
+
+5. Write a C program to simulate producer-consumer problem using semaphores.
+
+6. Write a program to demonstrate FIFO Page replacement algorithm to determine number of page faults.
+
+7. Write a program to demonstrate LRU Page replacement algorithm to determine number of page faults.
+
+8. Write a program to demonstrate Optimal Page replacement algorithm to determine number of page faults.
+
+9. Write a program to demonstrate Bankers Deadlock avoidance algorithm.
